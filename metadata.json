@@ -1,0 +1,5 @@
+{
+  "name": "Project KAVACH",
+  "description": "Secure Steganographic Communication System for DRDO. Implements AES-256 encryption and LSB Image Steganography for covert message transmission.",
+  "requestFramePermissions": []
+}
